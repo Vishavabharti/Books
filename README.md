@@ -1,2 +1,2 @@
 # CS_Books
-Contains COmputer science books information
+Contains Computer science books information
