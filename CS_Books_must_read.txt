@@ -2,105 +2,118 @@
 C Programming
 ----------------------------------------------------------------------------------
 
-1.C Progamming language
+1. C Programming language
 	- Brian Kerighan and Denis Ritche (Pearson)
 	
-2.Schaumms Outline of Programming with C
+2. Schaumms Outline of Programming with C
 	- Byron Gottfried (Mc-Graw-Hill)
 	
-3.Pointers in C
+3. Pointers in C
 	- Yashwant Kanetkar (BPB Publications)
 
 ==================================================================================
 Data Structures and Algorithms
 ----------------------------------------------------------------------------------
 
-1.Design and Analysis of Computer Algorithms 
-	- Alfred V. Aho. John E. Hopcroft and Jeff Ullman (Pearson , Addition Wesley)
+1. Design and Analysis of Computer Algorithms 
+	- Alfred V. Aho. John E. Hopcroft and Jeff Ullman (Pearson, Addition Wesley)
 	
-2.Fundamentals of Data Structure in C
+2. Fundamentals of Data Structure in C
 	- Ellis Horowitz, Sartaj Sahni (Silicon Press)
 	
-3.An Introduction to Data Structures with Applications
+3. An Introduction to Data Structures with Applications
 	- J.P. Tremblay (Tata Mc-Graw-Hill)
 	
-4.Data Structures Using C and C++
+4. Data Structures Using C and C++
 	- Langsam, Augeustein, Tanenbaum (Prentice Hall)
 
 ==================================================================================
 Operating Systems
 ----------------------------------------------------------------------------------
 
-1.Modern Operating System
+1. Modern Operating System
 	- Andrew Tanenbaum (Prentice Hall)
 	
-2.Design of the Unix Operating System
+2. Design of the Unix Operating System
 	- Maurice J. Bach (Prentice Hall)
 	
-3.Operating System Concepts
+3. Operating System Concepts
 	- Silberschatz, Galvin, Gagne (Wiley)
 
 ==================================================================================
-Real Time Operating Systems
+Real-Time Operating Systems
 ----------------------------------------------------------------------------------
 
-1.Operating System Concepts
+1. Operating System Concepts
 	- Silberschatz, Galvin, Gagne (Wiley)
 	
-2.Real Time Systems 
+2. Real-Time Systems 
 	- C.M. Krishna and Kang G. Shin (Mc-Graw-Hill)
 	
-3.An Embedded Software Primer
+3. An Embedded Software Primer
 	- David Simon (Addition Wesley
 	
-4.Embedded Systems- Architechture, Programming and Design
+4. Embedded Systems- Architecture, Programming and Design
 	- Raj Kamal (Tata Mc-Graw-Hill)
 
 ==================================================================================
 C++ Programming
 ----------------------------------------------------------------------------------
 
-1.The C++ Programming Lauguage
-	- Bajarne Stroustrup (Addition Wesley)
+1. The C++ Programming Language
+	- Bjarne Stroustrup (Addition Wesley)
 	
-2.Thinking in C++
+2. Thinking in C++
 	- Bruce Eckel (Prentice Hall)
 	
-3.Effective C++
+3. Effective C++
 	- Scott Meyers (Addition-Wesley)
 	
-4.More Effective C++
+4. More Effective C++
 	-Scott Meyers (Addition-Wesley)
 
 ==================================================================================
 Java
 ----------------------------------------------------------------------------------
 
-1.Effective Java
+1. Effective Java
 	- Joshua Bloch (Pearson)
 	
 ==================================================================================
 Database
 ----------------------------------------------------------------------------------
 
-1.MSDN
+1. MSDN
 	- Documentation from Microsoft Developer Network
 	
 ==================================================================================
 Data Networks
 ----------------------------------------------------------------------------------
 
-1.Computer Networks 
+1. Computer Networks 
 	- Andrew S. Tanenbaum (Prentice Hall)
 	
-2.Internetworking with TCP/IP
+2. Internetworking with TCP/IP
 	- Douglas E. Comer (Prentice Hall)
 
 ==================================================================================
-System Design
+System Design (HLD and LLD)
 ----------------------------------------------------------------------------------
 
-1.Designing Data-Intensive applications
-	- Martine Kleppmann (O'reilly)
-	
+1. Designing Data-Intensive applications
+	- Martine Kleppmann (O'Reilly)
+
+2. Design Patterns: Elements of Reusable Object-Oriented Software
+	-  Erich Gamma (Pearson)
+
+==================================================================================
+Interviews
+----------------------------------------------------------------------------------
+
+4. Cracking the Coding Interview
+	- Gayle Laakmann McDowell
+
+3. System design interview - I & II 
+	- Alex Xu
+
 ==================================================================================
